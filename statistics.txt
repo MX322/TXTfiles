@@ -1,0 +1,5 @@
+symbols: 48
+strings: 2
+glas letters: 12
+soglas letters: 29
+digits: 4
